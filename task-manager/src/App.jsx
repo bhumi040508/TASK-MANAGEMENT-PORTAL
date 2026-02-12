@@ -120,7 +120,7 @@ export default function App() {
           </div>
         </nav>
         <div className="p-6 border-t border-slate-800">
-            <div className="bg-slate-800 p-4 rounded-2xl text-[10px] text-slate-400 font-bold uppercase tracking-widest text-center">Free Version 1.0</div>
+            <div className="bg-slate-800 p-4 rounded-2xl text-[10px] text-slate-400 font-bold uppercase tracking-widest text-center">LoggedIn as Guest</div>
         </div>
       </aside>
 
